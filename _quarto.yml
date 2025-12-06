@@ -24,18 +24,8 @@ website:
         file: index.qmd
       - text: "My Resume"
         file: resume.qmd
-      - text: "Data Cleansing"
-        file: cleansing.qmd
-      - text: "Data Exploration"
-        file: exploration.qmd
-      - text: "Story Telling"
-        file: story_telling.qmd
       - text: "Machine Learning"
         file: ml.qmd
-      - text: "Full Stack"
-        file: full_stack.qmd
-      - text: "Competitions"
-        file: competition.qmd
   
   # learn more about navication here https://quarto.org/docs/websites/website-navigation.html
   # comment out any of the sections below to turn off the sidebar
